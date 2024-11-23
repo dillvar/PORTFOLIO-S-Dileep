@@ -47,7 +47,7 @@ Aspiring Software Engineer and EEE graduate from **Vignan’s Institute of Infor
 
 ## 🎓 Education
 - **B.Tech in Electrical and Electronics Engineering**  
-  Vignan’s Institute of Information Technology | CGPA: 8.61 | 2024  
+  Vignan’s Institute of Information Technology | CGPA: 8.54 | 2020 - 2024  
 
 - **CBSE PCM**  
   Sri Chaitanya Techno School | Percentage: 81.6% | 2020  
@@ -55,10 +55,10 @@ Aspiring Software Engineer and EEE graduate from **Vignan’s Institute of Infor
 ---
 
 ## 🎖 Certifications
-- AutoCAD Electrical & Drafting  
+- AutoCAD Electrical & Drafting
 - Industrial Automation  
 - Python & Python Data Structures  
-- Solar Energy Fundamentals  
+- Solar Energy Fundamentals
 
 ---
 
