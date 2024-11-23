@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Dileep Kumar Saragadam! 
-![Profile Photo](images/dill.jpg)
+<p align="center">
+  <img src="images/dill.jpg" alt="Profile Picture" width="200px" style="border: 2px solid #000; border-radius: 10px;">
+</p>
 
 
 ## 🌟 About Me
