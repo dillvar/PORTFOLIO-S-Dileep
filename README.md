@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Dileep Kumar Saragadam!
+# 👋 Hi, I'm Dileep Kumar Saragadam! ![Profile Photo](images/your-photo-name.jpg)
+
 
 ## 🌟 About Me
 Aspiring Software Engineer and EEE graduate from **Vignan’s Institute of Information Technology** with a strong foundation in programming, electrical systems, and automation. Passionate about innovation, problem-solving, and collaborative projects.
