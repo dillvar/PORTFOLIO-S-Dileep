@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dileep Kumar Saragadam!
 <p align="justify">
-  <img src="images/dill.jpg" alt="Profile Picture" width="200px" style="border: 2px solid #000; border-radius: 10px;">
+  <img src="images/dill.jpg" alt="Profile Picture" width="200px" style="border: 2px solid #111; border-radius: 10px;">
 </p>
 
 
