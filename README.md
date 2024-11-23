@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dileep Kumar Saragadam! ![Profile Photo](images/your-photo-name.jpg)
+# 👋 Hi, I'm Dileep Kumar Saragadam! ![Profile Photo](images/dill.jpg)
 
 
 ## 🌟 About Me
